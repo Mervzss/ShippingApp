@@ -17,6 +17,7 @@ export default ShippingTab = createMaterialTopTabNavigator(
     },
     {
         initialRouteName:'Address',
+        swipeEnabled:false,
         tabBarComponent: props =>{
             console.log(props)
             let tab = (<View style={{justifyContent:'center',backgroundColor:theme.APP_COLOR2, height:60, }}>
