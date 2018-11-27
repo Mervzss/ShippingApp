@@ -1,0 +1,7 @@
+export {MainHeader} from './CustomHeader/MainHeader'
+export {CustomInput} from './Input/CustomInput'
+export {CustomText} from './Text/CustomText'
+export {CustomButton} from './Button/CustomButton'
+export {CustomBlackText} from './Text/CustomBlackText'
+export {CustomCheckBox} from './CustomCheckBox/CustomCheckBox'
+export {BaseImage} from './BaseImage/BaseImage'
